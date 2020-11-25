@@ -1,0 +1,19 @@
+
+   Sensor KEYWORD 1
+
+   calibrate_RO KEYWORD2
+   measure_RS KEYWORD2
+   resistencia_sensor KEYWORD2
+   setRO_AR_LIMPO KEYWORD2
+   fazer_leitura KEYWORD2
+   setGas KEYWORD2
+   setPino KEYWORD2
+   setN_samples KEYWORD2
+   setValor_RL KEYWORD 2   
+   setA_eq KEYWORD2
+   setB_eq KEYWORD2
+   setN_interval KEYWORD2
+   getA_eq KEYWORD2
+   getB_eq KEYWORD2
+   getPino KEYWORD2
+   getGas KEYWORD2

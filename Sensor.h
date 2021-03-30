@@ -12,7 +12,7 @@ private:
   	double a_eq; //valor "a" da equação
   	double b_eq; //valor "b" da equação
   	int pino; //valor do pino
-  	double RS,RO;
+  	double RS, RO;
   	double RO_AR_LIMPO; //fator RO para ar limpo
   	double VALOR_RL; //valor de RL definido no modulo do sensor
 
@@ -39,6 +39,8 @@ public:
 	double getA_eq();
   	double getB_eq();
   	int getPino();
+	double getRs();
+	double getRo();
   	double getRs_ro();
   	String getGas();
 
